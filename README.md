@@ -34,14 +34,5 @@ I combine my expertise in **data science** and **digital marketing** to **optimi
 
 ---
 
-## 🤝 Let’s Connect!  
-I'm always open to **collaborating** and exploring **new opportunities**.  
-
-📫 **Get in Touch:**  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** [Your Email](#)  
-
----
-
 ## ⚡ Fun Fact  
 I’m passionate about **fitness**, **mountain biking**, and **scuba diving!** 🚴‍♂️🏋️‍♂️🤿 
