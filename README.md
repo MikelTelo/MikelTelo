@@ -1,5 +1,5 @@
 # 👋 Hi, and welcome to my GitHub profile!  
-### Below, you'll find **some information about me**, **what you can expect from this profile**, and **a little about my current situation and interests**.  
+### Below, you'll find **some information about me**, **what you can expect from this profile**, and **a little about my interests**.  
 
 ### **Let’s get started! 🚀**
 
