@@ -5,10 +5,6 @@
 
 ---
 
-## 🏆 Sales & Marketing Specialist | Passivhaus Technician | Expert in Aerothermal Systems, Underfloor Heating, Plumbing & Ventilation | Digitalization & Applied Data Science  
-
----
-
 ## 📊 About Me  
 ### **Professional with over 20 years of experience** in the **construction sector**, specializing in **technical sales**, **energy efficiency solutions**, and **commercial support**.  
 
@@ -23,13 +19,6 @@
 ### - 🛠️ **Projects:** Practical examples of **data analysis**, **marketing insights**, and **optimization strategies**.  
 ### - 📊 **Case Studies:** Real-world applications of my **skills** and **tools**.  
 ### - 🚀 **Learning Path:** Insights into my **continuous learning journey** in **data science** and **technology**.  
-
----
-
-## 🌱 Currently Learning...  
-### - **Advanced Machine Learning techniques**  
-### - **Data Visualization with Tableau and Power BI**  
-### - **Business Intelligence strategies**  
 
 ---
 
