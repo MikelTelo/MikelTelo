@@ -17,11 +17,17 @@ I combine my expertise in data science and digital marketing to optimize process
 🛠️ Projects: Practical examples of data analysis, marketing insights, and optimization strategies.
 📊 Case Studies: Real-world applications of my skills and tools.
 🚀 Learning Path: Insights into my continuous learning journey in data science and technology.
+
 🌱 Currently Learning...
 Advanced Machine Learning techniques.
 Data Visualization with Tableau and Power BI.
 Business Intelligence strategies.
 🤝 Let’s Connect!
 I'm always open to collaborating and exploring new opportunities.
+
+📫 Get in Touch:
+
+LinkedIn: Your LinkedIn Profile
+Email: Your Email
 ⚡ Fun Fact
 I’m passionate about fitness, mountain biking, and scuba diving! 🚴‍♂️🏋️‍♂️🤿
